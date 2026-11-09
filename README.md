@@ -7,13 +7,13 @@
   />
 </p>
 
-Nom: [Posa el teu nom aquí]
+Nom: Lucas Canto
 
-Nom del company/a: [Posa el nom del teu company/a aquí]
+Nom del company/a:Noah Rodriguez Marin
 
-Número de grup: [Posa el número el vostre grup aquí]
+Número de grup: 14
 
-Classe: [Posa la classe aquí]
+Classe: 2n SMXB
 
 Curs: GM Sistemes Microinformàtics i Xarxes 2026-2027
 
