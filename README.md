@@ -9,7 +9,7 @@
 
 Nom: Lucas Canto
 
-Nom del company/a:Noah Rodriguez Marin
+Nom del company/a: Noah Rodriguez Marin
 
 Número de grup: 14
 
