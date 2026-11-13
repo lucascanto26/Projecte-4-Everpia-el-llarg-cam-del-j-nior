@@ -26,3 +26,10 @@ Observa també la mateixa informació amb l'eina gràfica de l'editor VS Code, s
 
 ![git log head](/Tasca%202/img/Captura%20de%20pantalla%202026-11-13%20175731.png)
 
+
+# Part 3: Recuperar versions anteriors del working directory
+
+Imagina que estàs editant el fitxer 00-installer-config.yaml i, per error, esborres informació crucial o comets una erada de tecleig. Com que encara no has fet git commit, pots descartar els canvis del Working Directory i tornar el fitxer a l'estat del darrer commit.
+
+Simularem un error humà editant el fitxer 00-installer-config.yaml:
+
