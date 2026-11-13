@@ -9,12 +9,12 @@ Com a profesional, sovint hauràs de revisar l'historial del repositori per sabe
 
 Observa l'historial del teu repositori amb l'historial detallat, identificant la informació disponible per cada commit, executant a la terminal la comanda:
 git log
-![git log screenshoot]()
+![git log screenshoot](/Tasca%202/img/Captura%20de%20pantalla%202026-11-13%20175424.png)
 
 
 Compara el resultat amb l'historial resumit, executant a la terminal la comanda:
 git log --oneline
-![git log oneline]()
+![git log oneline](/Tasca%202/img/Captura%20de%20pantalla%202026-11-13%20175530.png)
 
 
 Usa l'eina gràfica de l'editor VS Code per veure l'historial del repositori i comparar-lo amb el que has vist a la terminal.
@@ -24,5 +24,5 @@ Inspecciona els canvis exactes del darrer commit amb la comanda:
 git show HEAD
 Observa també la mateixa informació amb l'eina gràfica de l'editor VS Code, seleccionant el darrer commit.
 
-![git log head]()
+![git log head](/Tasca%202/img/Captura%20de%20pantalla%202026-11-13%20175731.png)
 
