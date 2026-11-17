@@ -45,3 +45,34 @@ Configuració de xarxes, tallafocs (UFW/iptables) i rutes.
 Gestió d'usuaris i grups del sistema.
 
 Administració de serveis.
+
+# PAS 5 Prova de funcionalitats rellevants.
+
+__Crear un usuari nou:__
+S'ha procedit a crear un usuari nou de prova al sistema des de la interfície web.
+
+Al menú lateral cliquem a Systems i entrem a Users and Groups.
+![users and groups](/Tasca%206/img/Captura%20de%20pantalla%202026-11-17%20161444.png)
+
+Hem de fer clic a create a new user
+![create a new user](/Tasca%206/img/Captura%20de%20pantalla%202026-11-17%20161553.png)
+
+Posarem el username, nom real i la contrasenya en format Normal Password.
+![dades username](/Tasca%206/img/Captura%20de%20pantalla%202026-11-17%20161835.png)
+
+I ara creem l'usuari i surt a la nostra llista.
+![usuari](/Tasca%206/img/Captura%20de%20pantalla%202026-11-17%20162101.png)
+
+__Canviar la contrasenya d'un usuari existent__
+Des de la mateixa secció de "Users and Groups":
+
+A la llista d'usuaris, s'ha fet clic sobre el nom de l'usuari creat anteriorment (alumne_prova).
+![alumne_PROVA](/Tasca%206/img/Captura%20de%20pantalla%202026-11-17%20162333.png)
+
+A l'apartat Password, s'ha seleccionat "Normal password" i s'ha escrit la nova contrasenya.
+![nova contrasenya](/Tasca%206/img/Captura%20de%20pantalla%202026-11-17%20162511.png)
+
+Hem canviat de __123456__ a __QWERTY123__.
+
+S'ha fet clic a Save. El sistema ha aplicat el canvi automàticament sense necessitat d'utilitzar la comanda passwd per consola.
+
