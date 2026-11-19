@@ -1,5 +1,7 @@
 # LVM amb Zorin OS
 
+# 1. Configuració inicial
+
 Comprovem amb __lsblk__ que el sistema detecta els nous discos durs de 10 GB abans de configurar-los.
 
 ![captura1](/Tasca%204/img/screenshot1.png)
