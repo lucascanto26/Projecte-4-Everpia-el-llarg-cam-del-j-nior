@@ -11,6 +11,9 @@ Primera setmana de simulació:
 
 ![primera setmana feta](/Tasca%201/img/Captura%20de%20pantalla%202026-11-13%20173718.png)
 
+Segona setmana de simulació:
+![segona setmana](/Tasca%201/img/image%20(2).png)
+
 
 
 
