@@ -76,3 +76,9 @@ Hem canviat de __123456__ a __QWERTY123__.
 
 S'ha fet clic a Save. El sistema ha aplicat el canvi automàticament sense necessitat d'utilitzar la comanda passwd per consola.
 
+
+# FASE 2
+
+[Repo del meu company](https://github.com/noahrodrii/Projecte-4/blob/main/Tasca06/fitxa_tecnica.md)
+
+[Presentació](https://notebooklm.link.google/dHcHy2wIpm3Q)
